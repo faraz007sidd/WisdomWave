@@ -1,2 +1,2 @@
 # WisdomWave
-Author -- Faraz Ahmad
+Author -- Er Faraz Ahmad
